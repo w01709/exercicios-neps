@@ -33,3 +33,8 @@
 9 - Cobra Coral
     nome: cobra-coral-72
     link: https://neps.academy/br/exercise/72
+
+10 - Mesa Redonda
+    nome: mesa-redonda-571
+    link: https://neps.academy/br/exercise/571
+
