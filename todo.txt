@@ -1,0 +1,43 @@
+1 - Cobra Coral
+    nome: cobra-coral-72
+    link: https://neps.academy/br/exercise/72
+
+2 - Mesa Redonda
+    nome: mesa-redonda-571
+    link: https://neps.academy/br/exercise/571
+
+3 - Acelerador de Partículas
+    nome: acelerador-de-particulas-822
+    link: https://neps.academy/br/exercise/822
+
+4 - Fotografia
+    nome: fotografia-1021
+    link: https://neps.academy/br/exercise/1021
+
+5 - Contas a Pagar
+    nome: contas-a-pagar-2321
+    link: https://neps.academy/br/exercise/2321
+
+6 - Álbum da Copa
+    nome: album-da-copa-163
+    link: https://neps.academy/br/exercise/163
+
+7 - Hotel
+    nome: hotel-2067
+    link: https://neps.academy/br/exercise/2067
+
+8 - Zero para Cancelar
+    nome: zero-para-cancelar-1486
+    link: https://neps.academy/br/exercise/1486
+
+9 - Expressões
+    nome: expressoes-271 
+    link: https://neps.academy/br/exercise/271
+
+10 - Soma das Diagonais da Matriz 3x3
+    nome: soma-das-diagonais-da-matriz-3x3-201
+    link: https://neps.academy/br/exercise/201
+
+11 - Toca do Saci
+    nome: toca-do-saci-57
+    link: https://neps.academy/br/exercise/57
