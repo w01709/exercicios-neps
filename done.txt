@@ -1,0 +1,35 @@
+1 - Irmãos
+    nome: irmaos-978
+    link: https://neps.academy/br/exercise/978
+
+2 - A Idade de Dona Mônica
+    nome: a-idade-de-dona-monica-463
+    link: https://neps.academy/br/exercise/463
+
+3 - Piso da Escola
+    nome: piso-da-escola-167
+    link: https://neps.academy/br/exercise/167
+
+4 - Game-10
+    nome: game-10-17
+    link: https://neps.academy/br/exercise/17
+
+5 - Postes
+    nome: postes-41
+    link: https://neps.academy/br/exercise/41
+
+6 - Idade de Camila
+    nome: idade-de-camila-1479
+    link: https://neps.academy/br/exercise/1479
+
+7 - Supermercado (OBI 2019)
+    nome: supermercado-(obi-2019)-476
+    link: https://neps.academy/br/exercise/476
+
+8 - Média e mediana
+    nome: media-e-mediana-1656
+    link: https://neps.academy/br/exercise/1656
+
+9 - Cobra Coral
+    nome: cobra-coral-72
+    link: https://neps.academy/br/exercise/72
