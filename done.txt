@@ -38,3 +38,7 @@
     nome: mesa-redonda-571
     link: https://neps.academy/br/exercise/571
 
+11 - Acelerador de Partículas
+    nome: acelerador-de-particulas-822
+    link: https://neps.academy/br/exercise/822
+
