@@ -1,7 +1,3 @@
-14 - Álbum da Copa
-    nome: album-da-copa-163
-    link: https://neps.academy/br/exercise/163
-
 15 - Hotel
     nome: hotel-2067
     link: https://neps.academy/br/exercise/2067
