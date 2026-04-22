@@ -1,7 +1,3 @@
-13 - Contas a Pagar
-    nome: contas-a-pagar-2321
-    link: https://neps.academy/br/exercise/2321
-
 14 - Álbum da Copa
     nome: album-da-copa-163
     link: https://neps.academy/br/exercise/163
