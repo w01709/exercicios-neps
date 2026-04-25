@@ -1,0 +1,18 @@
+grafos
+    rede de vértices ligados onde cada vértices deve ser ligado a pelo menos um outro vértices
+    mas não necessariamente todos são ligados
+    
+    são usados, por exemplo, em redes sociais para determinar amigos, amigos de amigos e 3º grau, etc...
+    podem ser representadas por matrizes (arrays bidimensionais)
+
+        0   1   2   3   4
+        ----------------- 
+        0   0   1   1   0 | 4
+        0   1   0   0   1 | 3
+    A = 1   0   0   1   0 | 2
+        1   0   1   0   1 | 1
+        0   1   0   1   1 | 0
+
+    (^^^ alto gasto de memória)
+
+        
